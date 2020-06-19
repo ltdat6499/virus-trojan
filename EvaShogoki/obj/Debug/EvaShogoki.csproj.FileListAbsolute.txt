@@ -1,0 +1,13 @@
+E:\C#\EvaShogoki\bin\Debug\EvaShogoki.exe.config
+E:\C#\EvaShogoki\bin\Debug\EvaShogoki.exe
+E:\C#\EvaShogoki\bin\Debug\EvaShogoki.pdb
+E:\C#\EvaShogoki\obj\Debug\EvaShogoki.csproj.CoreCompileInputs.cache
+E:\C#\EvaShogoki\obj\Debug\EvaShogoki.exe
+E:\C#\EvaShogoki\obj\Debug\EvaShogoki.pdb
+E:\EvaShogoki\bin\Debug\EvaShogoki.exe.config
+E:\EvaShogoki\bin\Debug\EvaShogoki.exe
+E:\EvaShogoki\bin\Debug\EvaShogoki.pdb
+E:\EvaShogoki\obj\Debug\EvaShogoki.csprojAssemblyReference.cache
+E:\EvaShogoki\obj\Debug\EvaShogoki.csproj.CoreCompileInputs.cache
+E:\EvaShogoki\obj\Debug\EvaShogoki.exe
+E:\EvaShogoki\obj\Debug\EvaShogoki.pdb
